@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "354297dce039f55716d885aa08c7895e"
-application_url = "https://explain-treasure-inches-looked.trycloudflare.com"
+application_url = "https://shut-interventions-hamilton-ja.trycloudflare.com"
 embedded = true
 name = "Secure Sync"
 handle = "secure-sync"
@@ -23,9 +23,9 @@ scopes = "read_orders, read_products, write_products, write_shipping, read_shipp
 
 [auth]
 redirect_urls = [
-  "https://explain-treasure-inches-looked.trycloudflare.com/auth/callback",
-  "https://explain-treasure-inches-looked.trycloudflare.com/auth/shopify/callback",
-  "https://explain-treasure-inches-looked.trycloudflare.com/api/auth/callback"
+  "https://shut-interventions-hamilton-ja.trycloudflare.com/auth/callback",
+  "https://shut-interventions-hamilton-ja.trycloudflare.com/auth/shopify/callback",
+  "https://shut-interventions-hamilton-ja.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
